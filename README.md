@@ -12,9 +12,8 @@ A Fullstack JavaScript Developer never tired of learning and always up for new p
 * 🤝  I'm open to collaborating on all kind of projects :) feel free the hit me up!
 * ⚡  I am the Batman
 
-<a href="https://www.twitter.com/Dom_TheDev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Dom_TheDev?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
-/></a><a href="https://www.github.com/dom-the-dev" target="_blank" rel="noreferrer"><img
+
+<a href="https://www.github.com/dom-the-dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/dom-the-dev?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
 ### Skills
@@ -30,7 +29,6 @@ src="https://img.shields.io/github/followers/dom-the-dev?logo=github&style=for-t
 <a href="https://www.github.com/dom-the-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="http://www.instagram.com/dom_the_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/amrugiewicz-dom/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/Dom_TheDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://www.youtube.com/c/domthedeveloper" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 </p>
 
