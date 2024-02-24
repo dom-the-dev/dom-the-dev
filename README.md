@@ -31,7 +31,12 @@ src="https://img.shields.io/github/followers/dom-the-dev?logo=github&style=for-t
 <a href="https://www.youtube.com/c/domthedeveloper" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 </p>
 
-### Badges
+### Things i build
+* 🖥️   [spoilr](https://spoilr.vercel.app/)
+* 🖥️   [spotifight](https://spoti-fight.vercel.app/)
+* 🖥️   [savethemix](https://save-the-mix.vercel.app/)
+* 🖥️   [tailymate](https://tailymate.vercel.app/)
+* 🖥️   [pokedex](https://nextjs-tailwind-pokedex.vercel.app/)
 
 <b>My GitHub Stats</b>
 
