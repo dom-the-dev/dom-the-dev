@@ -7,7 +7,6 @@ A Fullstack JavaScript Developer never tired of learning and always up for new p
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [Domthedev.com](http://domthedev.com)
 * ✉️  You can contact me at [hi@domthedev.com](mailto:hi@domthedev.com)
-* 🚀  I'm currently working on [Tailymate](http://tailymate.com)
 * 🧠  I'm learning everything at the same time
 * 🤝  I'm open to collaborating on all kind of projects :) feel free the hit me up!
 * ⚡  I am the Batman
