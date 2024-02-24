@@ -42,9 +42,3 @@ src="https://img.shields.io/github/followers/dom-the-dev?logo=github&style=for-t
 
 <a href="https://github.com/dom-the-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dom-the-dev&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-         <a href="https://www.buymeacoffee.com/domthedev">
-                <img
-                  src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=domthedev&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"
-                  alt={'help with buy-me-a-coffee'}
-                />
-              </a>
